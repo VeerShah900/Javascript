@@ -1,0 +1,2 @@
+// The first thing that we do when we start a new language!
+console.log("HELLO WORLD");
