@@ -1,8 +1,8 @@
 var score = 20;
 if(score>20)
 {
-console.log("You are pass")
+console.log("You are pass");
 }
 else{
-console.log("You have failed")
+console.log("You have failed");
 }
